@@ -20,3 +20,6 @@ Steps:
 
 Optional:
 If you want to upload a file (image, gif or video) with text, for convenience copy that file in the same folder where is attached python file and when running the script type the filename with the extension (example: test.png)
+
+Source:
+http://docs.tweepy.org/en/latest/api.html?highlight=media#tweepy-api-twitter-api-wrapper
